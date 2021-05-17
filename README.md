@@ -26,14 +26,6 @@
 - `decorator Logger`
 - `interface LoggerInterface`
 
-**REST Utilities**
-- `enum ResponseStatus`
-- `function controllerResponse`
-- `interface BaseResponse`
-- `interface SuccessResponse`
-- `interface ErrorResponse`
-- `interface SuccessResponsePromise`
-
 **TS Utilities**
 - `function isDefined`
 - `function toNumber`

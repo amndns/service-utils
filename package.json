@@ -1,6 +1,6 @@
 {
   "name": "@amndns/service-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A collection of common utilities and tools used by my TypeScript services.",
   "author": "Adel Ismael Mandanas",
   "license": "MIT",
