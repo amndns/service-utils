@@ -3,13 +3,13 @@
   <a href="https://badge.fury.io/js/%40amndns%2Fservice-utils">
     <img src="https://badge.fury.io/js/%40amndns%2Fservice-utils.svg" alt="npm version" height="18" target="_blank">
   </a>
-  <a href="https://github.com/amndns/service-utils/blob/master/README.md" target="_blank">
+  <a href="https://github.com/amndns/service-utils/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/amndns/service-utils/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/amndns/service-utils/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/amndns/service-utils/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
 </p>
